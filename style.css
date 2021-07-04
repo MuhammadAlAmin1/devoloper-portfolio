@@ -5,7 +5,7 @@ h1{
 
     font-size: 40px;
     margin-left: 2%;
-    padding:5px 10px;
+    padding:10px 10px;
 }
 .orange-colar{
     color:orange
@@ -20,10 +20,11 @@ h2{
     color: deeppink;
     margin: 2%;
 }
-section{
+ .flexible-container{
     display: flex;
     margin-bottom: 100px;
-}
+    }
+
 .half-width{
         width:50%;
     
@@ -31,6 +32,19 @@ section{
 .half-width img{
       width: 80%;
     }
+.experiences-aria{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item{
+    box-shadow: 10px 10px 40px 10px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    border-radius:10px;
+
+}
 p{
     background-color: hotpink;
     border: 5px double red;
@@ -57,4 +71,5 @@ p{
     background-image: url(images/dream-bg.png);
     background-repeat:no-repeat ;
     background-position: right;
+
 }
