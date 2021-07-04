@@ -5,6 +5,7 @@ h1{
 
     font-size: 40px;
     margin-left: 2%;
+    padding:1px 10px;
 }
 .orange-colar{
     color:orange
@@ -32,6 +33,22 @@ section{
 p{
     background-color: hotpink;
     border: 5px double red;
-    padding: 5px 7px;
+    padding: 5px 15px;
+    border-radius: 5px;
 
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    font-weight: 800;
+    border-radius: 5px;
+    color: snow;
+
+}
+
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
