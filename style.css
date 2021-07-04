@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+
+    font-size: 40px;
+    margin-left: 2%;
+}
+.orange-colar{
+    color:orange
+}
+.colar-blue{
+    color: blue;
+}
+.colar-crimson{
+    color:crimson;
+}
+h2{
+    color: deeppink;
+    margin: 2%;
+}
+section{
+    display: flex;
+}
+.half-width{
+        width:50%;
+    
+    }
+.half-width img{
+      width: 80%;
+    }
+p{
+    background-color: hotpink;
+    border: 5px double red;
+    padding: 5px 7px;
+
+}
