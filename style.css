@@ -73,3 +73,21 @@ p{
     background-position: right;
 
 }
+#full-Stack-exp{
+   border-left: 7px solid;
+   border-image:linear-gradient(green,blue);
+   border-image-slice: 1;
+   border-radius:10px;
+
+}
+#wev-dev-exp{
+   border-left: 7px solid;
+   border-image:linear-gradient(red,rgb(167, 69, 88));
+   border-image-slice: 1;
+   border:image-radious 10px;
+
+}
+footer h6{
+    text-align: center;
+    
+}
